@@ -3,8 +3,6 @@ author: "Your Name"
 title: "Education"
 date: "2023-07-14"
 description: "My High School Journey"
-categories: ["Education"]
-layout: about
 ---
 
 Hello! Welcome to the page detailing my high school educational experiences. Throughout my high school years, I've been fortunate enough to have some memorable learning experiences that have contributed greatly to my personal and academic growth.
@@ -19,31 +17,31 @@ I am currently a student at __________ High School, which is known for its rigor
 
 I've taken several AP (Advanced Placement) courses, which are college-level courses offered to high school students for potential college credit. Here's an overview:
 
-| Course Name | Contents | Personal Feelings | Scores |
-| :---: | :---: | :---: | :---: |
-| AP Biology | Cellular structures, energy transfer, genetics | Found it challenging but exciting, particularly enjoyed the genetics unit | 4 |
-| AP English Language | Analysis of prose, argumentative writing | Enjoyed improving my writing and analyzing different texts | 5 |
-| AP Calculus BC | Advanced integration techniques, sequences and series | Loved the problem-solving aspects, found it rewarding to understand complex concepts | 5 |
+| Course Name | Contents | Scores |
+| :---: | :---: | :---: |
+| AP Biology | Cellular structures, energy transfer, genetics | 4 |
+| AP English Language | Analysis of prose, argumentative writing | 5 |
+| AP Calculus BC | Advanced integration techniques, sequences and series | 5 |
 
 ## ALevel Courses
 
 ALevel (Advanced Level) courses are subject-based qualifications that can lead to university, further study, training, or work. Here are the ALevel courses I've taken:
 
-| Course Name | Contents | Personal Feelings | Scores |
-| :---: | :---: | :---: | :---: |
-| ALevel Biology | Biological molecules, organisms and environment | Fascinated by the depth of content, enjoyed studying molecular biology | A |
-| ALevel English | Prose, drama, poetry | Loved exploring different genres and periods of literature | A* |
-| ALevel Maths | Core maths, mechanics, statistics | Challenging but rewarding, especially appreciated practical applications of math | A* |
+| Course Name | Contents | Scores |
+| :---: | :---: | :---: |
+| ALevel Biology | Biological molecules, organisms and environment | A |
+| ALevel English | Prose, drama, poetry | A* |
+| ALevel Maths | Core maths, mechanics, statistics | A* |
 
 ## IB Courses
 
 The IB (International Baccalaureate) Diploma Program is an internationally recognized curriculum that offers 11th and 12th grade students a rigorous, interdisciplinary course of study. My IB courses included:
 
-| Course Name | Contents | Personal Feelings | Scores |
-| :---: | :---: | :---: | :---: |
-| IB Biology HL | Cell biology, genetics, ecology | Found the content fascinating, especially enjoyed exploring ecology | 6 |
-| IB English A HL | Literary analysis, comparative study | Loved analyzing diverse literature, improved my critical thinking skills | 7 |
-| IB Math SL | Algebra, calculus, statistics | Found the course intellectually stimulating, especially liked calculus | 6 |
+| Course Name | Contents | Scores |
+| :---: | :---: | :---: |
+| IB Biology HL | Cell biology, genetics, ecology | 6 |
+| IB English A HL | Literary analysis, comparative study | 7 |
+| IB Math SL | Algebra, calculus, statistics | 6 |
 
 Note: For IB courses, HL denotes Higher Level, and SL denotes Standard Level.
 
@@ -55,7 +53,7 @@ Note: For IB courses, HL denotes Higher Level, and SL denotes Standard Level.
 
 ## Courses Taken
 
-| Course Name | Course Content | Personal Feelings | Score |
-|:------------|:---------------|:------------------|:------|
-| [Course Name 1](your-website-link) | Content of Course 1 | My experience with Course 1 was incredible. It challenged me in the best way possible and I learned a lot. | 95 |
-| [Course Name 2](your-website-link) | Content of Course 2 | Course 2 was a bit tough but the professor was helpful and the learning curve was steep yet enjoyable. | 89 |
+| Course Name | Course Content | Score |
+|:------------|:---------------|:------|
+| [Course Name 1](your-website-link) | Content of Course 1 | 95 |
+| [Course Name 2](your-website-link) | Content of Course 2 | 89 |
