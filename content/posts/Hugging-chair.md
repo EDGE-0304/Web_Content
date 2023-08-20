@@ -1,16 +1,17 @@
 ---
 title: "Hugging Chair"
 date: 2023-06-15
-thumbnailImagePosition: left
-thumbnailImage: images/Hugging-chair-1.png
-coverImage: images/Hugging-chair-1.png
+author: Nick
+image: images/Hugging-chair-1.png
 
+tags:
+- tag 2
 
 categories:
-- designs
-- furniture
-tags:
-- image gallery
+- category 2
+
+weight: 3
+
 ---
 
 The shape of people's bodies when hugging inspires the idea of a hugging chair. When couples in long-distance relationships

@@ -1,13 +1,17 @@
 ---
 title: "Gluten"
 date: 2023-06-15
-heroimage: /images/profile.png
+author: Nick
+image: images/Gluten-1.jpg
+
+tags:
+- tag 1
 
 categories:
-- designs
-- building
-tags:
-- image gallery
+- category 1
+
+weight: 2
+
 ---
 
 The idea is to use gluten as a building material for the desert. 

@@ -1,14 +1,19 @@
 ---
 title: "Water Cycle"
 date: 2023-06-15
-thumbnailImagePosition: left
-thumbnailImage: images/Water-cycle-4.png
+author: Nick
+image: images/Water-cycle-4.png
+
+tags:
+- tag 2
+- tag 3
 
 categories:
-- designs
-- experiments
-tags:
-- image gallery
+- category 2
+- category 3
+
+weight: 5
+
 ---
 
 ![Water cycle 1](../../../images/Water-cycle-1.png)

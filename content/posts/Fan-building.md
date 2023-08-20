@@ -1,16 +1,17 @@
 ---
 title: "Fan Building"
 date: 2023-06-13
-thumbnailImagePosition: left
-thumbnailImage: images/Fan-building-1.jpg
-coverImage: images/Fan-building-1.jpg
+author: Nick
+image: images/Fan-building-1.jpg
 
+tags:
+- tag 1
 
 categories:
-- designs
-- building
-tags:
-- image gallery
+- category 1
+
+weight: 6
+
 ---
 
 The purpose of the "fan" structure is to provide a large opening in order to achieve the 

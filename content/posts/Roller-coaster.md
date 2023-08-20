@@ -1,16 +1,19 @@
 ---
 title: "Roller Coaster"
 date: 2023-06-15
-thumbnailImagePosition: left
-thumbnailImage: images/Roller-coaster-1.jpg
-coverImage: images/Roller-coaster-1.jpg
+author: Nick
+image: images/Roller-coaster-1.jpg
 
+tags:
+- tag 1
+- tag 2
 
 categories:
-- designs
-- building
-tags:
-- image gallery
+- category 1
+- category 2
+
+weight: 4
+
 ---
 
 This project was enlighted by the League of Legends map
