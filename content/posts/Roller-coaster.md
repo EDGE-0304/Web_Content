@@ -2,6 +2,7 @@
 title: "Roller Coaster"
 date: 2023-06-15
 author: Nick
+description: "This is the description of Roller Coaster"
 image: images/Roller-coaster-1.jpg
 
 tags:

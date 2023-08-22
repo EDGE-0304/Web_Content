@@ -2,6 +2,7 @@
 title: "Hugging Chair"
 date: 2023-06-15
 author: Nick
+description: "This is the description of Hugging Chair"
 image: images/Hugging-chair-1.png
 
 tags:

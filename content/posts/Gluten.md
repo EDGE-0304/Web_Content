@@ -2,6 +2,7 @@
 title: "Gluten"
 date: 2023-06-15
 author: Nick
+description: "This is the description of Gluten"
 image: images/Gluten-1.jpg
 
 tags:

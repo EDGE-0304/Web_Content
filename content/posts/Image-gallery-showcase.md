@@ -2,6 +2,7 @@
 title: "Image gallery showcase"
 date: 2023-06-13
 author: Nick
+description: "This is the description of Image gallery showcase"
 image: images/Artwork-1.png
 
 tags:
